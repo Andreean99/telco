@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+scipy
+tensorflow-cpu
+pickle-mixin
+scikit-learn == 1.0.2
